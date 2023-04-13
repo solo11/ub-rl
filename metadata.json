@@ -1,0 +1,10 @@
+{
+  "name": "asset_2",
+  "description": "asset_2_desc",
+  "id": "2",
+  "tags": [
+    "test_asset",
+    "sample_asset"
+  ],
+  "url": "https://github.com/Harichandana-Vejendla/test-digital-asset"
+}
